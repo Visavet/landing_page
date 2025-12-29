@@ -1,0 +1,149 @@
+How VisaVet Works
+
+Subline (optional, small):
+A structured, context-aware review — not a scan.
+
+Step 1 (Refined)
+
+Tell Us Your Context
+
+Short surface text (visible by default):
+
+You share your background, visa type, and public profiles — the same way an officer sees your case.
+
+On click → white popup expands with:
+
+Why this matters
+Visa screening is contextual. The same online activity can be interpreted very differently depending on visa category, travel history, and stated intent.
+
+What you provide
+
+Visa category you’re applying for
+
+High-level purpose of travel
+
+Public social media platforms used
+
+Optional context you would otherwise explain in an interview
+
+How this is used
+This information frames how your public digital presence is interpreted — not judged in isolation.
+
+Step 2 (Refined)
+
+Structured Digital Review
+
+Short surface text:
+
+Your public online presence is reviewed the way modern screening systems interpret it.
+
+On click → popup expands with:
+
+How the review is done
+We combine automated pattern analysis with human evaluation to review your publicly visible digital footprint.
+
+What is examined
+
+Consistency across platforms
+
+Public biographical signals
+
+Timeline alignment
+
+Language tone and associations
+
+Public visibility and discoverability
+
+What this is not
+This is not keyword hunting, sentiment scoring, or automated flagging. Context and interpretation matter.
+
+Step 3 (Refined)
+
+Receive a Human-Written Report
+
+Short surface text:
+
+You receive a written report — clear, calm, and actionable.
+
+On click → popup expands with:
+
+What you receive
+A structured report outlining:
+
+Observations (what is visible)
+
+Consistency checks (what aligns or conflicts)
+
+Advisory notes (what to be mindful of)
+
+How it helps
+The report helps you understand how your public presence may appear during visa screening — before it’s evaluated officially.
+
+What we don’t do
+We don’t predict outcomes, assign scores, or promise approvals.
+
+🎨 INTERACTION & VISUAL DESIGN (IMPORTANT)
+Glow + Hover Behavior
+
+Each step is a text block, not a card
+
+On hover:
+
+Soft blue glow around the text
+
+Slight background blur behind it
+
+Cursor changes subtly (not dramatic)
+
+Click Interaction
+
+Clicking opens a centered white modal
+
+Modal has:
+
+Plenty of whitespace
+
+Dark text
+
+Calm typography
+
+No close “X” icon — use “Close” text link
+
+This subconsciously signals care and seriousness.
+
+💬 CLIENT REVIEWS — REFINED
+
+You were right again: these should evolve visually.
+
+New Review Style
+
+Full blue cards
+
+White text
+
+Soft white outer glow
+
+Rounded corners
+
+Slow horizontal motion (left → right)
+
+Review Tone Rules
+
+Calm
+
+Observational
+
+No emotional hype
+
+No “life-changing” language
+
+Sample Copy (Refined)
+
+“The process felt thoughtful and measured. The report didn’t rush to conclusions, which made it easier to trust.”
+F-1 Applicant
+
+“What stood out was the context. It wasn’t just about posts, but how everything fits together.”
+H-1B Applicant
+
+“This felt closer to an advisory service than a tool. That mattered to us.”
+Parent of Graduate Student

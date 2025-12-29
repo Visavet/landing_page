@@ -1,0 +1,125 @@
+Do not redesign the site.
+Do not change layout structure, section order, colors, fonts, or spacing outside what is mentioned below.
+All existing sections, components, and styling should remain exactly the same unless explicitly modified here.
+
+Focus only on content refinement, subtle animation, hover behavior, and responsiveness.
+
+1️⃣ TRANSITION FROM HERO → “HOW VISAVET WORKS”
+
+At the start of the How VisaVet Works section:
+
+Increase the size of the heading text “How VisaVet Works” slightly so it feels like a clear section break and anchor.
+
+Add a subtle, premium animation on load:
+
+Gentle upward fade-in
+
+Slight opacity + blur resolve
+
+No bounce, no overshoot, no dramatic motion
+
+Use the available vertical space in this section more intentionally.
+
+Directly below the heading, add a short explanatory paragraph (centered or left-aligned as it already is):
+
+This is not an AI-generated summary or an automated scan.
+Each review is conducted through a structured process that combines technology-assisted analysis with careful human evaluation, designed to reflect how modern visa screening interprets public digital signals.
+
+Keep this paragraph calm, professional, and readable.
+No badges, no icons, no callouts.
+
+Everything else in this section (steps, layout, interactions) remains as previously implemented.
+
+2️⃣ “WHAT WE REVIEW” SECTION — REFINEMENT ONLY
+
+In the What We Review section:
+
+Reduce the number of cards to 8 total
+
+Make each card slightly larger to allow more readable text
+
+Add a soft blue glow on hover (increase glow slightly compared to before)
+
+Keep the grid layout and background exactly the same
+
+Each card should contain a short title and a 1–2 line description, written in plain language.
+
+Use the following content (paraphrase lightly if needed, but keep meaning intact):
+
+Public Posts & Content
+Visible posts, captions, and shared content that contribute to your public narrative.
+
+Profile Bios & Descriptions
+How your self-descriptions align across platforms and with your application story.
+
+Timeline Consistency
+Public activity patterns that align with stated education, work, and travel history.
+
+Platform Cross-Alignment
+Whether different platforms tell a coherent and consistent story.
+
+Visible Affiliations
+Publicly visible groups, pages, or interests you are associated with.
+
+Interaction Patterns
+How public comments, reactions, and engagements appear in context.
+
+Name & Identity Signals
+Username choices, naming consistency, and recognizability across platforms.
+
+Overall Public Visibility
+The level and nature of what is publicly accessible at the time of review.
+
+Do not add scores, flags, or risk labels.
+
+3️⃣ CLIENT REVIEWS SECTION — VISUAL & CONTENT ENHANCEMENT
+
+In the client reviews/testimonials section:
+
+Make each review card slightly larger
+
+Increase the glow intensity around each card (still soft and premium, not neon)
+
+Maintain the existing scrolling / motion behavior
+
+Each review card should now include:
+
+A short review quote (2–3 lines max)
+
+A realistic first name and initial (e.g., “Ananya R.”, “David K.”, “Rohit M.”)
+
+A subtle role or context line (e.g., “F-1 Applicant”, “H-1B Renewal”, “B1/B2 Visitor”)
+
+Example tone (do not copy verbatim):
+
+Calm
+
+Relieved
+
+Professional
+
+No claims of approval or guarantees
+
+Text should feel like feedback on clarity, confidence, and preparedness, not outcomes.
+
+4️⃣ RESPONSIVENESS & MOBILE BEHAVIOR (NO REDESIGN)
+
+Ensure the following without changing visual identity:
+
+All sections scale cleanly on mobile and tablet
+
+Cards stack gracefully with preserved spacing
+
+Hover effects translate into subtle tap feedback on mobile
+
+Text remains readable without truncation
+
+Navigation / menu requirements:
+
+Mobile menu should be fully functional
+
+Menu opens and closes smoothly
+
+All links work correctly
+
+No layout shifts or overlapping elements

@@ -1,0 +1,80 @@
+Add a new FAQ section below the “Trust & Scale” metrics and above the client reviews.
+Keep the overall visual language consistent with the rest of the site: dark background, subtle gradients, soft glow, premium spacing.
+
+The FAQ section should feel calm, reassuring, and authoritative — not salesy.
+
+Layout & Behavior
+
+Display FAQs as stacked expandable cards (accordion style).
+
+Each question appears as a single-line heading.
+
+On click:
+
+The card expands smoothly downward.
+
+Background turns slightly lighter (deep navy/charcoal).
+
+A soft blue glow appears around the expanded card.
+
+Only one FAQ should stay open at a time.
+
+Animations should be subtle and slow (ease-in-out).
+
+Fully responsive:
+
+On mobile, cards span full width.
+
+Tap targets should be large and readable.
+
+FAQ Content (Use Exactly This Copy)
+Is this an AI-generated report?
+
+No. We use technology to surface patterns such as sentiment signals, keyword clusters, timeline overlaps, and cross-platform inconsistencies.
+Every surfaced signal is then reviewed by a human analyst who evaluates context, intent, and how the content may be interpreted without your explanation.
+The final report is written manually and reflects judgment — not automation.
+
+What exactly do you analyze?
+
+We analyze your publicly visible digital presence across declared platforms, including posts, bios, interactions, timelines, and cross-platform consistency.
+This includes both signal detection (what stands out) and narrative alignment (how your online story reads as a whole).
+
+How long does the review take?
+
+Most reports are delivered within 4–5 hours.
+This allows sufficient time for both technology-assisted analysis and careful human evaluation, without rushing or auto-generating results.
+
+Is this a one-time payment?
+
+Yes. VisaVet is a one-time payment.
+After your report is delivered, you can return to the portal to request clarifications, follow-up analysis, or future reviews without paying again.
+
+Can I use this service again in the future?
+
+Yes. Your access remains open.
+If your online presence changes or you apply for another visa later, you can request an updated analysis through the same portal.
+
+Will this guarantee my visa approval?
+
+No service can guarantee visa outcomes.
+VisaVet helps reduce uncertainty by identifying how your public digital presence may be interpreted during modern visa screening.
+
+Do you access private messages or private accounts?
+
+No. We do not access private messages, DMs, locked profiles, or anything not publicly visible.
+Only public information and profiles you voluntarily disclose are reviewed.
+
+Should I delete content before using VisaVet?
+
+We generally advise against sudden deletions.
+The report focuses on interpretive risk and preparation — helping you understand what may require explanation rather than prompting reactive changes.
+
+Visual Notes for Replit (Important)
+
+Do not use icons, emojis, or illustrations.
+
+Typography should remain consistent with the rest of the site.
+
+Spacing should feel breathable and “elite”.
+
+This section should feel like it belongs on a professional advisory firm’s website, not a SaaS FAQ dump.

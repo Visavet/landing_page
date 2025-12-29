@@ -1,0 +1,197 @@
+Context
+This section comes after “How VisaVet Works.”
+The product is a professional, trust-based visa advisory review service.
+The design must remain elite, calm, and institutional — not flashy, not SaaS-like.
+
+SECTION 1: What We Review
+
+Create a full-width section titled:
+
+What We Review
+
+Place the heading centered or left-aligned (consistent with earlier sections).
+Keep typography restrained and professional.
+
+Background
+
+The background of this section should use a flowing gradient inspired by the provided image.
+
+The gradient should feel like a slow-moving horizon
+
+Dark at the top, gently transitioning into soft blue tones
+
+Use subtle motion (very slow vertical or diagonal gradient movement)
+
+No sharp transitions, no neon colors, no animation that draws attention
+
+This background should feel ambient, not decorative.
+
+Grid Layout
+
+Inside this section, create a 4 × 4 grid of small white cards.
+
+Cards should be clean, minimal, and text-only
+
+White or very light off-white background
+
+Soft blue glow around each card (very subtle)
+
+Rounded corners, but not playful
+
+No borders, no icons, no images, no emojis
+
+Plenty of spacing between cards
+
+Each card contains:
+
+A short title (bold)
+
+One short explanatory line (plain text)
+
+Card Content (What We Review)
+
+Use calm, neutral language.
+Do NOT imply guarantees, scoring, or approval.
+
+Here is the exact content to use across the grid (you may reorder visually):
+
+Public social media posts
+We review publicly visible posts across major platforms.
+
+Profile biographies and descriptions
+Bios are checked for consistency and clarity.
+
+Usernames and identifiers
+We look at how identifiers appear across platforms.
+
+Employment references
+Public mentions of work history are reviewed.
+
+Education references
+Publicly stated education details are checked.
+
+Location indicators
+Public location signals are reviewed for consistency.
+
+Public comments and replies
+Visible interactions are included in the review.
+
+Shared links and content
+Frequently shared content is reviewed at a high level.
+
+Group and page associations
+Public group affiliations are considered.
+
+Account visibility settings
+We confirm what information is publicly accessible.
+
+Timeline consistency
+Public timelines are reviewed for alignment.
+
+Language tone and patterns
+General tone is reviewed contextually.
+
+Public profile images
+Profile images are reviewed as part of identity context.
+
+Public activity frequency
+Activity patterns are observed at a high level.
+
+Search visibility
+We check what appears when names are searched publicly.
+
+General public footprint
+A summary view of overall public presence.
+
+Keep each description one line only.
+
+SECTION 2: Client Reviews
+
+Below the “What We Review” grid, create a Client Reviews section.
+
+Title it simply:
+
+Client Reviews
+
+Reviews Layout
+
+Reviews should appear in horizontal cards
+
+Cards move slowly from right to left in a continuous loop
+
+Motion should be calm and slow, not distracting
+
+Pause animation on hover
+
+No autoplay speed changes
+
+Do not use star ratings, avatars, or logos.
+
+Review Card Style
+
+Each review card should include:
+
+A short testimonial (2–3 lines)
+
+A subtle identifier like:
+
+“F-1 Applicant”
+
+“H-1B Applicant”
+
+“Parent of Student”
+
+No names
+
+No photos
+
+No locations
+
+Cards should be neutral in tone, not emotional.
+
+Sample Review Copy
+
+Use content like this (paraphrase if needed, but keep tone):
+
+“The report was clear and detailed. It helped me understand what information was visible online and what to be mindful of before my interview.”
+F-1 Applicant
+
+“I appreciated that the review felt thoughtful and not automated. It gave me clarity without making promises.”
+H-1B Applicant
+
+“The process was professional and reassuring. The report helped us feel more prepared.”
+Parent of Student
+
+Important Restrictions (Do Not Break These)
+
+Do NOT:
+
+Add icons or symbols
+
+Add star ratings
+
+Add company logos
+
+Add names or faces
+
+Add emojis
+
+Add aggressive animations
+
+Add CTA buttons in this section
+
+This section should reinforce trust, not push conversion.
+
+Overall Feel Reminder
+
+This entire section should feel like:
+
+A compliance or advisory firm
+
+A quiet, confident service
+
+Something that feels “real” and considered
+
+Not a startup showcase.
+Not a marketing site.
+Not a SaaS dashboard.

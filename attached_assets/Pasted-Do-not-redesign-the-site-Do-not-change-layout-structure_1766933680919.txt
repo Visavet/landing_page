@@ -1,0 +1,194 @@
+Do not redesign the site.
+ Do not change layout structure, section order, colors, fonts, or spacing outside what is mentioned below.
+ All existing sections, components, and styling should remain exactly the same unless explicitly modified here.
+Focus only on content refinement, subtle animation, hover behavior, and responsiveness.
+
+1️⃣ TRANSITION FROM HERO → “HOW VISAVET WORKS”
+At the start of the How VisaVet Works section:
+Increase the size of the heading text “How VisaVet Works” slightly so it feels like a clear section break and anchor.
+
+
+Add a subtle, premium animation on load:
+
+
+Gentle upward fade-in
+
+
+Slight opacity + blur resolve
+
+
+No bounce, no overshoot, no dramatic motion
+
+
+Use the available vertical space in this section more intentionally.
+Directly below the heading, add- Not an automated scan or AI summary.
+And  a short explanatory line which moves from left to right - For left-to-right motion, this text works best when:
+Slight horizontal slide (8–12px)
+
+
+Opacity from 0 → 1
+
+
+Duration ~600–700ms
+
+
+Delay ~120ms after section title
+
+
+No glow, no underline — let the words do the work.
+
+The line is -Each review combines technology-assisted analysis with careful human evaluation, reflecting how modern visa screening interprets public digital signals.
+Keep this calm, professional, and readable.
+No badges, no icons, no callouts.
+Everything else in this section (steps, layout, interactions) remains as previously implemented.
+
+2️⃣ “WHAT WE REVIEW” SECTION — REFINEMENT ONLY
+In the What We Review section:
+Reduce the number of cards to 8 total
+
+
+Make each card slightly larger to allow more readable text
+
+
+Add a soft blue glow on hover (increase glow slightly compared to before)
+
+
+Keep the grid layout and background exactly the same
+
+
+Each card should contain a short title and a 1–2 line description, written in plain language.
+Use the following content (paraphrase lightly if needed, but keep meaning intact):
+Public Posts & Content
+ Visible posts, captions, and shared content that contribute to your public narrative.
+
+
+Profile Bios & Descriptions
+ How your self-descriptions align across platforms and with your application story.
+
+
+Timeline Consistency
+ Public activity patterns that align with stated education, work, and travel history.
+
+
+Platform Cross-Alignment
+ Whether different platforms tell a coherent and consistent story.
+
+
+Visible Affiliations
+ Publicly visible groups, pages, or interests you are associated with.
+
+
+Interaction Patterns
+ How public comments, reactions, and engagements appear in context.
+
+
+Name & Identity Signals
+ Username choices, naming consistency, and recognizability across platforms.
+
+
+Overall Public Visibility
+ The level and nature of what is publicly accessible at the time of review.
+
+
+Do not add scores, flags, or risk labels.
+And here are the content corresponding to those cards which pop up when i click on read more- Public Posts & Content
+We review publicly visible posts, captions, shared media, and text content across disclosed platforms. The focus is not on volume or frequency, but on the overall narrative created by what is visible.
+This includes how topics, tone, and themes appear when viewed together rather than in isolation. Content is interpreted in context, accounting for time, platform norms, and relevance to your stated background.
+The goal is to identify whether your public content presents a clear, neutral, and coherent public presence when reviewed at face value.
+
+Profile Bios & Descriptions
+We examine profile bios, headlines, and self-descriptions across platforms to assess how consistently you describe yourself publicly.
+This includes education, professional identity, affiliations, and role descriptions, and whether these align with each other and with the information typically presented in visa applications.
+Inconsistencies are not treated as errors by default, but are noted where they could create ambiguity or confusion in a formal review setting.
+
+Timeline Consistency
+We assess whether publicly visible activity patterns align broadly with your stated education, work history, and travel timeline.
+This does not involve assumptions about private activity. Instead, we look at whether public signals create a reasonable and internally consistent timeline when viewed externally.
+This step helps identify areas where additional clarification or context may be useful.
+
+Platform Cross-Alignment
+Different platforms often serve different purposes. We review how your presence appears when platforms are viewed together, rather than individually.
+This includes differences in tone, identity presentation, and level of formality, and whether these variations still form a coherent overall profile.
+The aim is not uniformity, but recognizability and consistency at a high level.
+
+Visible Affiliations
+We review publicly visible groups, pages, follows, and stated interests where accessible.
+This review focuses on visibility and association, not private beliefs or intent. Affiliations are considered in context and without inference beyond what is publicly displayed.
+Only clearly visible, public associations are included in this assessment.
+
+Interaction Patterns
+We examine publicly visible comments, reactions, and engagements to understand how interactions appear when viewed collectively.
+This includes tone, frequency, and context, without attempting to interpret private meaning or intent.
+The purpose is to assess whether public interactions contribute to a stable and professional outward presence.
+
+Name & Identity Signals
+We review usernames, display names, and profile identifiers to understand how easily your identity can be recognized and linked across platforms.
+This includes name consistency, recognizability, and whether profiles clearly appear to belong to the same individual.
+This step helps assess clarity of public identity, not exposure level.
+
+Overall Public Visibility
+We assess the overall level of public exposure at the time of review — what is visible, how easily accessible it is, and how it appears when viewed as a whole.
+This is not a judgment of privacy choices. Instead, it documents the scope of publicly accessible information and how it presents externally.
+The outcome is a neutral visibility snapshot rather than a score or label.
+
+3️⃣ CLIENT REVIEWS SECTION — VISUAL & CONTENT ENHANCEMENT
+In the client reviews/testimonials section:
+Make each review card slightly larger
+
+
+Increase the glow intensity around each card (still soft and premium, not neon)
+
+
+Maintain the existing scrolling / motion behavior
+
+
+Each review card should now include:
+A short review quote (4 lines max and atleast 3 lines )
+
+
+A realistic first name and initial (e.g., “Ananya Rai.”, “Divesh  K.”, “Rohit Aggarwal.”)
+
+
+A subtle role or context line (e.g., “F-1 Applicant”, “H-1B Renewal”, “B1/B2 Visitor”)
+And add a very small dp icon too 
+Example tone (do not copy verbatim):
+Calm
+
+
+Relieved
+
+
+Professional
+
+
+No claims of approval or guarantees
+
+
+Text should feel like feedback on clarity, confidence, and preparedness, not outcomes.
+
+4️⃣ RESPONSIVENESS & MOBILE BEHAVIOR (NO REDESIGN)
+Ensure the following without changing visual identity:
+All sections scale cleanly on mobile and tablet
+
+
+Cards stack gracefully with preserved spacing
+
+
+Hover effects translate into subtle tap feedback on mobile
+
+
+Text remains readable without truncation
+
+
+Navigation / menu requirements:
+Mobile menu should be fully functional
+
+
+Menu opens and closes smoothly
+
+
+All links work correctly
+
+
+No layout shifts or overlapping elements
+
